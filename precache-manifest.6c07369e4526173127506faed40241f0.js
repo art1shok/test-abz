@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "92b62f52778cdde4d8680443675ea133",
+    "revision": "0258e6e3876772286102639ad3b9bd40",
     "url": "/test-abz/index.html"
   },
   {
-    "revision": "8a0eb6f7734d718b28c4",
-    "url": "/test-abz/static/css/main.3f8f1d91.chunk.css"
+    "revision": "621aafd082252d502f57",
+    "url": "/test-abz/static/css/main.0470201f.chunk.css"
   },
   {
     "revision": "67736f688ff010b85d6b",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/test-abz/static/js/2.dbb718c6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8a0eb6f7734d718b28c4",
+    "revision": "621aafd082252d502f57",
     "url": "/test-abz/static/js/main.1e56e5ef.chunk.js"
   },
   {
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/test-abz/static/media/OpenSans-SemiBold.fe241c6c.woff"
   },
   {
-    "revision": "76b77e01a748b9529e5f448460a57763",
-    "url": "/test-abz/static/media/banner-photo.76b77e01.jpg"
+    "revision": "6fc6c15528d9d418ef45af36b66fe7f4",
+    "url": "/test-abz/static/media/banner-photo.6fc6c155.jpg"
   },
   {
     "revision": "bce28fb772838de34344b20fa26296b0",
