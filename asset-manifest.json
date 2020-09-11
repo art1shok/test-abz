@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/test-abz/static/css/main.2b961467.chunk.css",
+    "main.css": "/test-abz/static/css/main.3f8f1d91.chunk.css",
     "main.js": "/test-abz/static/js/main.1e56e5ef.chunk.js",
     "main.js.map": "/test-abz/static/js/main.1e56e5ef.chunk.js.map",
     "runtime-main.js": "/test-abz/static/js/runtime-main.91d965c1.js",
@@ -8,12 +8,12 @@
     "static/js/2.dbb718c6.chunk.js": "/test-abz/static/js/2.dbb718c6.chunk.js",
     "static/js/2.dbb718c6.chunk.js.map": "/test-abz/static/js/2.dbb718c6.chunk.js.map",
     "index.html": "/test-abz/index.html",
-    "precache-manifest.b9098ad99fb14e7f1233cd7fcf98a811.js": "/test-abz/precache-manifest.b9098ad99fb14e7f1233cd7fcf98a811.js",
+    "precache-manifest.85bfa76085cafb113289e2b2330721b5.js": "/test-abz/precache-manifest.85bfa76085cafb113289e2b2330721b5.js",
     "service-worker.js": "/test-abz/service-worker.js",
-    "static/css/main.2b961467.chunk.css.map": "/test-abz/static/css/main.2b961467.chunk.css.map",
+    "static/css/main.3f8f1d91.chunk.css.map": "/test-abz/static/css/main.3f8f1d91.chunk.css.map",
     "static/js/2.dbb718c6.chunk.js.LICENSE.txt": "/test-abz/static/js/2.dbb718c6.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/test-abz/static/media/OpenSans-SemiBold.fe241c6c.woff",
-    "static/media/Banner.scss": "/test-abz/static/media/banner-photo.f5443d74.jpg",
+    "static/media/Banner.scss": "/test-abz/static/media/banner-photo.76b77e01.jpg",
     "static/media/logo.svg": "/test-abz/static/media/logo.bce28fb7.svg",
     "static/media/man-laptop-v1.svg": "/test-abz/static/media/man-laptop-v1.f28cb247.svg",
     "static/media/menu icon.svg": "/test-abz/static/media/menu icon.63637e94.svg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.91d965c1.js",
     "static/js/2.dbb718c6.chunk.js",
-    "static/css/main.2b961467.chunk.css",
+    "static/css/main.3f8f1d91.chunk.css",
     "static/js/main.1e56e5ef.chunk.js"
   ]
 }
