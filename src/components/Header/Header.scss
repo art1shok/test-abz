@@ -5,18 +5,18 @@
   background-color: #fff;
   width: 100%;
 
-  @media screen and (max-width:  425px) {
-    padding: 10px 15px;
-    align-items: center;
-  }
-
   &__container {
-
     max-width: 1170px;
     display: flex;
     z-index: 1;
     padding: 20px 30px 15px;
     margin: 0 auto;
+
+    @media screen and (max-width:  425px) {
+      padding: 10px 15px;
+      align-items: center;
+    }
+
   }
 
   &__logo {
